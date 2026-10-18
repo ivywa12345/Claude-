@@ -1,0 +1,5 @@
+videos/*/work/
+videos/*/contact_sheet.html
+videos/*/*.mp4
+videos/*/*.render-report.json
+__pycache__/

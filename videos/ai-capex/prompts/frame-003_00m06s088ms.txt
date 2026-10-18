@@ -1,0 +1,13 @@
+One horizontal 16:9 YouTube frame. Intentionally crude beginner MS Paint drawing, wobbly thick uneven black outlines, basic shapes, flat bucket-fill colors, pure white background. All subjects use this same crude visual language. People are simple stick figures with round heads, dot eyes, black stick bodies and limbs, and basic expressions and gestures. Vivid saturated colors with a clear primary focal area and quieter supporting colors. Build a readable action scene; do not shrink everything into a tiny isolated icon. Keep important faces, hands, labels and contact points fully visible. Flat 2D; no gradients, shading, texture, 3D or cinematic lighting. Amateur, funny and deliberately awkward, not polished illustration. No narration subtitles, timestamps, logos, extra labels or decorative objects.
+
+Continuity (only what appears in this shot):
+- big tech companies are giant boxy office-building characters with simple faces and stick arms and a hand-written name on the front; MICROSOFT is a blue building, GOOGLE red, AMAZON orange, META purple. Draw ONLY the companies named in the composition; no logos
+- a long grey box building full of black server racks with tiny purple lights
+
+Composition (construction site): GOOGLE building character in a hard hat presses a big red STOP button while a half-built grey DATACENTER with a frozen yellow crane stands behind
+
+Color: red building and grey half-built center, yellow crane
+
+Exact on-screen text: "STOP"
+
+Narration context (do not print it): "Google is slowing down data-center construction"

@@ -1,0 +1,294 @@
+id,start,end,dur_s,filename,narration,on_screen_text,composition
+1,0.000,3.250,3.25,frame-001_00m00s000ms.png,Imagine waking up one morning and hearing this,,"HOST sits up in bed at dawn, hair messy, arm stretched to an old radio on the nightstand that blasts jagged sound lines; small window with a rising sun"
+2,3.250,6.088,2.84,frame-002_00m03s250ms.png,Microsoft is cutting its AI spending,AI,MICROSOFT building character holds giant scissors and snips a long green money ribbon labeled AI; cut half falls
+3,6.088,9.400,3.31,frame-003_00m06s088ms.png,Google is slowing down data-center construction,STOP,GOOGLE building character in a hard hat presses a big red STOP button while a half-built grey DATACENTER with a frozen yellow crane stands behind
+4,9.400,12.438,3.04,frame-004_00m09s400ms.png,Amazon is delaying new GPU purchases,LATER,"AMAZON building character pushes a shopping cart full of green GPU chips back toward a shop shelf, a clock with a ""LATER"" tag on the cart"
+5,12.438,16.950,4.51,frame-005_00m12s438ms.png,Meta is pushing back its next round of AI infrastructure investment,AI BUILD / 2027,"META building character uses both arms to shove a huge wall calendar page forward; the page shows a circled box ""AI BUILD"" being pushed to next year"
+6,16.950,19.638,2.69,frame-006_00m16s950ms.png,And Nvidia suddenly tells investors,,"NVIDIA chip character stands at a podium with a microphone; small INVESTOR crowd in front, all leaning in"
+7,19.638,23.038,3.40,frame-007_00m19s638ms.png,We still expect strong AI demand but customers,STRONG AI DEMAND,"NVIDIA smiling nervously at the mic, speech bubble with a big up-arrow chart labeled DEMAND"
+8,23.038,26.475,3.44,frame-008_00m23s038ms.png,are no longer increasing their spending at the same pace,SPENDING GROWTH,"NVIDIA sweating, pointing at a whiteboard line chart whose line was climbing steeply and now flattens out sideways"
+9,26.475,29.462,2.99,frame-009_00m26s475ms.png,The first reaction would probably be obvious,,"three INVESTOR figures stare at a big stock screen, mouths open, hands on heads"
+10,29.462,30.850,1.39,frame-010_00m29s462ms.png,Sell Nvidia,SELL NVIDIA,an INVESTOR slams a giant red SELL button with both fists; a small NVIDIA chip figure flies off a ladder in the background
+11,30.850,32.675,1.82,frame-011_00m30s850ms.png,Sell semiconductors,SEMIS,INVESTOR dumps a wheelbarrow of little green and purple computer chips into a dumpster
+12,32.675,34.338,1.66,frame-012_00m32s675ms.png,Sell data centers,FOR SALE,a grey DATACENTER building with a big red-and-white FOR SALE sign hammered into the ground by an INVESTOR
+13,34.338,36.738,2.40,frame-013_00m34s338ms.png,Sell anything related to AI,SELL ANYTHING AI,"INVESTOR at a messy yard-sale table covered in anything with ""AI"" written on it: robot toy, laptop, mug, chip; huge sign"
+14,36.738,39.012,2.27,frame-014_00m36s738ms.png,But there is a much bigger question,,"HOST walks into frame from the right holding up one finger, calm expression; the messy yard sale is small and far behind on the left"
+15,39.012,42.988,3.98,frame-015_00m39s012ms.png,What happens to all the money that was supposed to be spent on AI,AI SPENDING / ?,a giant green cloud made of dollar bills floats in the sky labeled AI SPENDING; tiny people below look up with a huge red question mark
+16,42.988,45.412,2.42,frame-016_00m42s988ms.png,Because this isn't just about Nvidia,NOT JUST NVIDIA,"the green NVIDIA chip stands tiny in the bottom corner while a huge crowd of other objects (buildings, power plants, cranes) towers behind it"
+17,45.412,47.975,2.56,frame-017_00m45s412ms.png,The AI boom has become one of the largest,,an enormous green wave made of money rolls across a city skyline; tiny figures surf it
+18,47.975,50.750,2.77,frame-018_00m47s975ms.png,capital-spending cycles in modern history,RAILROADS / INTERNET / AI,a hand-drawn bar chart where the last bar labeled AI is towering far above older bars labeled RAILROADS and INTERNET
+19,50.750,54.175,3.42,frame-019_00m50s750ms.png,Hundreds of billions of dollars are being committed to GPUs,GPUs,a dump truck pours green money into a big bin of purple GPU chips
+20,54.175,56.850,2.67,frame-020_00m54s175ms.png,data centers networking equipment power,DATA CENTERS / NETWORKING / POWER,"a long scroll unrolls with doodles: data center, network cables, power plant, each with a green check"
+21,56.850,60.475,3.62,frame-021_00m56s850ms.png,plants cooling systems and electricity infrastructure,COOLING / POWER,"a row of power-plant chimneys, a big blue cooling fan box, and yellow power lines all connected in one landscape"
+22,60.475,64.412,3.94,frame-022_01m00s475ms.png,And if AI capex eventually peaks or even collapses,PEAK?,a green money mountain with a flag on top; a crack runs down its side and a rock tumbles
+23,64.412,66.212,1.80,frame-023_01m04s412ms.png,where does that capital go,?,green dollar bills fly off in all directions from a broken piggy bank; HOST shrugs in the middle
+24,66.212,70.175,3.96,frame-024_01m06s212ms.png,That question may be more important than whether AI is a bubble,BUBBLE? / WHERE DOES IT GO?,"HOST holds a big soap bubble labeled BUBBLE? in one hand and a much bigger signpost labeled WHERE DOES IT GO? in the other, choosing the signpost"
+25,70.175,73.412,3.24,frame-025_01m10s175ms.png,The AI Boom Is Really a Capital-Spending Boom,THE AI BOOM IS A CAPEX BOOM,hand-drawn chapter title across the middle with a construction crane lifting a giant green dollar sign
+26,73.412,75.850,2.44,frame-026_01m13s412ms.png,When people talk about the AI boom they,,"two stick figures at a coffee shop chatting, one with a speech bubble filled with a cute robot"
+27,75.850,78.488,2.64,frame-027_01m15s850ms.png,usually talk about artificial intelligence,ARTIFICIAL INTELLIGENCE,close-up of the speech bubble: a big glowing pink brain with circuit lines and the letters AI
+28,78.488,81.200,2.71,frame-028_01m18s488ms.png,But financially something else is happening,,HOST holds a big magnifying glass over the robot brain revealing it's actually stuffed with green money inside
+29,81.200,84.125,2.92,frame-029_01m21s200ms.png,It's a massive capital-expenditure cycle,CAPEX CYCLE,a giant hamster wheel made of green money spinning with the four BIGTECH buildings running inside it
+30,84.125,86.138,2.01,frame-030_01m24s125ms.png,The chain looks something like this,,"HOST unrolls a long metal chain across the whiteboard, each link empty"
+31,86.138,88.338,2.20,frame-031_01m26s138ms.png,Investors provide capital,CAPITAL,INVESTOR hands a fat green money sack forward over a counter
+32,88.338,91.488,3.15,frame-032_01m28s338ms.png,Big technology companies spend that capital,,the four BIGTECH buildings catch the money sacks and toss bills into the air
+33,91.488,93.288,1.80,frame-033_01m31s488ms.png,They build data centers,,MICROSOFT building lays bricks of a grey DATACENTER with a trowel
+34,93.288,94.850,1.56,frame-034_01m33s288ms.png,They buy GPUs,GPUs,GOOGLE building pays cash at a counter to NVIDIA who hands over a stack of GPU chips
+35,94.850,96.850,2.00,frame-035_01m34s850ms.png,They buy networking equipment,NETWORKING,AMAZON building wraps itself in a tangle of blue network cables
+36,96.850,100.100,3.25,frame-036_01m36s850ms.png,They consume enormous amounts of electricity,,a DATACENTER drinks electricity through a giant straw from a yellow power plant tank
+37,100.100,104.200,4.10,frame-037_01m40s100ms.png,And companies like Nvidia Broadcom utilities,NVIDIA / UTILITIES,"NVIDIA, a yellow power-plant character and a hard-hat builder each hold out buckets catching falling green money"
+38,104.200,107.938,3.74,frame-038_01m44s200ms.png,construction companies and data-center operators collect the money,,"a crane-operator and a DATACENTER character with a face hold a big sack of money together, grinning"
+39,107.938,111.150,3.21,frame-039_01m47s938ms.png,Then investors look at those companies and say,,INVESTOR figures peek over a fence at the happy suppliers with binoculars
+40,111.150,113.412,2.26,frame-040_01m51s150ms.png,AI demand is exploding,AI DEMAND IS EXPLODING!,INVESTOR shouts through a megaphone; exploding firework behind
+41,113.412,115.325,1.91,frame-041_01m53s412ms.png,Their valuations rise,,a stock-price rocket blasts upward with NVIDIA riding on top
+42,115.325,118.838,3.51,frame-042_01m55s325ms.png,That makes it easier for them to raise even more capital,MORE CAPITAL,NVIDIA and a power-plant character hold out top hats and green money pours in from the sky
+43,118.838,120.675,1.84,frame-043_01m58s838ms.png,And the cycle continues,INVESTORS / BIG TECH / SUPPLIERS / STOCKS UP,a big circular arrow diagram connecting INVESTORS → BIG TECH → SUPPLIERS → STOCK UP → back
+44,120.675,123.988,3.31,frame-044_02m00s675ms.png,So the AI boom isn't just a technology story,TECH STORY,HOST holds a tech book in one hand and turns it over: back cover is a green money ledger
+45,123.988,126.300,2.31,frame-045_02m03s988ms.png,It's also a financial cycle,FINANCIAL CYCLE,a giant spinning washing machine labeled FINANCIAL CYCLE with green money tumbling inside
+46,126.300,129.888,3.59,frame-046_02m06s300ms.png,And financial cycles eventually face one question,,a big stern judge stick figure with a gavel looms over the washing machine
+47,129.888,132.588,2.70,frame-047_02m09s888ms.png,What is the return on all this capital,RETURN ON CAPITAL?,the judge holds up a sign
+48,132.588,135.325,2.74,frame-048_02m12s588ms.png,The Problem Isn't That AI Doesn't Work,THE PROBLEM ISN'T THAT AI DOESN'T WORK,chapter title with a working little robot giving a thumbs up
+49,135.325,139.000,3.67,frame-049_02m15s325ms.png,This is where I think the AI debate often gets confused,,"two stick figures argue, their speech bubbles tangled into a knot of yarn"
+50,139.000,141.225,2.23,frame-050_02m19s000ms.png,There are two very different statements,,"HOST holds up two big cards, one in each hand, both blank"
+51,141.225,143.238,2.01,frame-051_02m21s225ms.png,AI is transformative,AI IS TRANSFORMATIVE,close-up of left card glowing with a lightning-bright robot
+52,143.238,146.538,3.30,frame-052_02m23s238ms.png,And Every dollar being invested in AI infrastructure,EVERY DOLLAR...,close-up of right card: a long row of dollar bills each with a happy face
+53,146.538,149.212,2.67,frame-053_02m26s538ms.png,today will earn an attractive return,...EARNS A GREAT RETURN,same dollar bills each holding a little trophy
+54,149.212,153.438,4.23,frame-054_02m29s212ms.png,The first statement can be true while the second one is completely false,TRUE / FALSE,"the two cards on a desk: first gets a big green check, second gets a big red X"
+55,153.438,155.638,2.20,frame-055_02m33s438ms.png,Think about the early internet,1999,1999-style chunky beige computer with a dial-up modem squealing
+56,155.638,157.406,1.77,frame-056_02m35s638ms.png,The internet was real,,stick figures happily typing emails and shopping online on old computers
+57,157.406,158.982,1.58,frame-057_02m37s406ms.png,It changed the world,,a smiling planet Earth wrapped in glowing internet cables
+58,158.982,161.519,2.54,frame-058_02m38s982ms.png,But investors still built too much fiber-optic,FIBER,workers bury mountains of orange fiber-optic cables into a trench far longer than needed
+59,161.519,165.044,3.52,frame-059_02m41s519ms.png,capacity too many networks and too many companies,.COM / .COM / .COM,many empty cables lead to empty buildings with cobwebs and dozens of company signs
+60,165.044,166.619,1.57,frame-060_02m45s044ms.png,The technology won,,the old computer stands on a winners podium wearing a medal
+61,166.619,168.444,1.82,frame-061_02m46s619ms.png,Many investors didn't,,INVESTOR sits on the curb with empty pockets turned out and a torn stock certificate
+62,168.444,170.482,2.04,frame-062_02m48s444ms.png,That's an important distinction,TECH / INVESTMENT,HOST draws a thick vertical line on a board between TECH and INVESTMENT
+63,170.482,173.494,3.01,frame-063_02m50s482ms.png,The AI economy could be exactly the same,,the old computer looks into a mirror and sees a modern AI server rack
+64,173.494,177.706,4.21,frame-064_02m53s494ms.png,AI could become one of the most important technologies in history,,an orange AI robot holds a huge golden trophy on a pedestal
+65,177.706,182.644,4.94,frame-065_02m57s706ms.png,while the market still spends too much money too quickly on the wrong infrastructure,"TOO MUCH, TOO FAST",crowd of builders pours green money into constructing a giant DATACENTER on a cliff edge that tilts dangerously
+66,182.644,185.519,2.88,frame-066_03m02s644ms.png,So What Happens If AI Capex Peaks,WHAT IF AI CAPEX PEAKS?,chapter title with a mountain peak and a small flag
+67,185.519,187.844,2.33,frame-067_03m05s519ms.png,Let's say something extreme happens,EXTREME,HOST wears a cardboard lab hat and lifts a lever marked EXTREME
+68,187.844,190.232,2.39,frame-068_03m07s844ms.png,Today hyperscalers are increasing,,the four BIGTECH buildings sprint forward
+69,190.232,192.969,2.74,frame-069_03m10s232ms.png,AI infrastructure spending aggressively,,the buildings throw green money at a mountain of server racks
+70,192.969,196.319,3.35,frame-070_03m12s969ms.png,But over the next two or three years something changes,2027 / 2028,"wall calendar pages flying off, labeled 2027 and 2028"
+71,196.319,198.006,1.69,frame-071_03m16s319ms.png,Companies realize,,MICROSOFT building with a light bulb above its head
+72,198.006,200.069,2.06,frame-072_03m18s006ms.png,We've built enough capacity,ENOUGH CAPACITY,"a warehouse stuffed to the ceiling with server racks, a FULL sign"
+73,200.069,202.519,2.45,frame-073_03m20s069ms.png,AI models become more efficient,MORE EFFICIENT,an orange robot jogs lightly carrying a tiny battery instead of a huge one
+74,202.519,204.456,1.94,frame-074_03m22s519ms.png,Inference becomes cheaper,INFERENCE,a price tag on a robot drops from $$$ to $ with a red slash
+75,204.456,206.932,2.48,frame-075_03m24s456ms.png,GPU utilization improves,UTILIZATION,"GPU chips each working hard on a conveyor, a gauge pointing to 100%"
+76,206.932,210.156,3.22,frame-076_03m26s932ms.png,And the economic return from another $100 billion,$100B,a giant green money sack labeled $100B on a scale
+77,210.156,213.732,3.58,frame-077_03m30s156ms.png,of data centers isn't as attractive as it used to be,RETURN,the scale tips the other way only a tiny coin comes out as return; a builder looks disappointed
+78,213.732,217.832,4.10,frame-078_03m33s732ms.png,So instead of increasing capex by 30 or 40 percent,+30% / +40%,bar chart with tall bars labeled +30% and +40%
+79,217.832,220.556,2.72,frame-079_03m37s832ms.png,companies increase it by 5 percent,+5%,next bar is tiny labeled +5%
+80,220.556,223.069,2.51,frame-080_03m40s556ms.png,Then zero And eventually,0%,"flat line at 0% with HOST tapping it, then a dotted path beginning to dip"
+81,223.069,224.844,1.77,frame-081_03m43s069ms.png,capex starts falling,CAPEX FALLING,bar chart bars now going down below zero
+82,224.844,227.356,2.51,frame-082_03m44s844ms.png,Now let's ask the interesting question,,"HOST leans in toward the viewer, finger raised"
+83,227.356,228.919,1.56,frame-083_03m47s356ms.png,Where does the money go,WHERE?,"a pile of green money with wings flying away, tiny HOST chasing with a net"
+84,228.919,232.019,3.10,frame-084_03m48s919ms.png,I see at least five possible destinations,1 / 2 / 3 / 4 / 5,a crossroads signpost with five arrows pointing different directions
+85,232.019,235.156,3.14,frame-085_03m52s019ms.png,Destination Number One Back to Bonds,#1 BACK TO BONDS,chapter title with a blue bond certificate
+86,235.156,239.256,4.10,frame-086_03m55s156ms.png,This is the most interesting possibility from a macro perspective,MACRO,HOST looks at a huge globe through a telescope
+87,239.256,243.269,4.01,frame-087_03m59s256ms.png,AI infrastructure requires enormous amounts of capital,,a giant DATACENTER monster with open mouth gobbling green money
+88,243.269,247.594,4.33,frame-088_04m03s269ms.png,And a lot of that capital doesn't come from cash sitting in a checking account,CHECKING ACCOUNT,"a small checking-account piggy bank with only a few coins, next to the hungry monster which doesn't eat from it"
+89,247.594,250.419,2.83,frame-089_04m07s594ms.png,It comes from corporate cash flow,CASH FLOW,pipes feeding the monster: first pipe from a company cash register
+90,250.419,252.619,2.20,frame-090_04m10s419ms.png,banks private credit,BANKS / PRIVATE CREDIT,more pipes from a bank building with columns and a vault labeled PRIVATE CREDIT
+91,252.619,253.994,1.38,frame-091_04m12s619ms.png,bond markets,BOND MARKETS,pipe from a blue bond-market building
+92,253.994,255.482,1.49,frame-092_04m13s994ms.png,equity markets,EQUITY MARKETS,pipe from a stock exchange building with a big ticker board
+93,255.482,257.706,2.22,frame-093_04m15s482ms.png,and institutional investors,INSTITUTIONS,INVESTOR group with huge pension-fund barrels pouring money into pipes
+94,257.706,261.282,3.58,frame-094_04m17s706ms.png,If the demand for AI infrastructure suddenly slows,AI DEMAND SLOWS,"the monster closes its mouth, holding its full belly"
+95,261.282,263.844,2.56,frame-095_04m21s282ms.png,the demand for capital also slows,CAPITAL DEMAND SLOWS,all the pipes now have shut valves; money drips stop
+96,263.844,267.594,3.75,frame-096_04m23s844ms.png,And when the economy doesn't need as much capital for investment,,a big green money pile sits on a bench twiddling thumbs
+97,267.594,270.944,3.35,frame-097_04m27s594ms.png,investors start looking for another place to put their money,,INVESTOR wanders with a flashlight and a money bag looking for a home
+98,270.944,273.344,2.40,frame-098_04m30s944ms.png,One obvious destination is,THIS WAY,a signpost pointing to a blue building
+99,273.344,274.782,1.44,frame-099_04m33s344ms.png,government bonds,GOVERNMENT BONDS,a stack of blue US TREASURY certificates
+100,274.782,276.982,2.20,frame-100_04m34s782ms.png,Especially U.S. Treasuries,US TREASURIES,Uncle-Sam-style striped hat sits on top of the bond stack
+101,276.982,279.119,2.14,frame-101_04m36s982ms.png,Think about the chain reaction,,"a row of dominoes about to fall, labeled with icons"
+102,279.119,280.756,1.64,frame-102_04m39s119ms.png,AI capex slows,AI CAPEX,first domino labeled AI CAPEX falls
+103,280.756,282.982,2.23,frame-103_04m40s756ms.png,Data-center construction slows,CONSTRUCTION,second falls: a crane on top
+104,282.982,285.706,2.72,frame-104_04m42s982ms.png,Demand for project financing falls,PROJECT FINANCE,third falls: a loan document
+105,285.706,287.569,1.86,frame-105_04m45s706ms.png,Corporate borrowing falls,BORROWING,fourth falls: a company holding a loan
+106,287.569,291.044,3.48,frame-106_04m47s569ms.png,Investors need fewer risky assets to finance,FEWER RISKY ASSETS,"INVESTOR holding fewer risky red stock papers, sighing in relief"
+107,291.044,293.319,2.27,frame-107_04m51s044ms.png,At the same time if weaker AI,GROWTH,"an economy car labeled GROWTH starts slowing, puffing smoke"
+108,293.319,296.156,2.84,frame-108_04m53s319ms.png,investment starts slowing economic growth,,the car crawls with a snail passing it
+109,296.156,299.482,3.33,frame-109_04m56s156ms.png,the Federal Reserve may have more room to cut rates,RATES / FED,a Federal Reserve building character holds scissors cutting a rate line on a chart
+110,299.482,302.794,3.31,frame-110_04m59s482ms.png,And suddenly Treasuries become much more attractive,,the blue Treasury stack shines with sparkles and investors lining up
+111,302.794,304.194,1.40,frame-111_05m02s794ms.png,So ironically,IRONICALLY,"HOST raises an eyebrow, holding a tiny ""ironically"" sign"
+112,304.194,308.469,4.28,frame-112_05m04s194ms.png,a collapse in AI capex could eventually become bullish for bonds,BULLISH BONDS,"a cartoon bull charges, wearing a blue bond certificate as a cape, standing over a broken AI capex bar"
+113,308.469,311.182,2.71,frame-113_05m08s469ms.png,This is one reason I wouldn't automatically interpret,,HOST scratching head looking at a downward red arrow
+114,311.182,314.534,3.35,frame-114_05m11s182ms.png,falling AI spending as purely bearish for markets,NOT PURELY BEARISH,"a bear figure sits on a falling AI chart, but HOST holds up a STOP hand"
+115,314.534,317.297,2.76,frame-115_05m14s534ms.png,It could be bearish for one part of the market,BEARISH,market drawn as two halves: left half has a bear in the rain
+116,317.297,319.134,1.84,frame-116_05m17s297ms.png,while bullish for another,BULLISH,right half sunny with a happy bull
+117,319.134,322.910,3.78,frame-117_05m19s134ms.png,Destination Number Two AI Applications,#2 AI APPLICATIONS,chapter title with an orange robot holding a briefcase
+118,322.910,325.184,2.27,frame-118_05m22s910ms.png,But there is another possibility,,HOST opens a second door with light pouring out
+119,325.184,327.160,1.98,frame-119_05m25s184ms.png,The money doesn't leave AI,,green money sack hugging an orange AI robot
+120,327.160,329.434,2.27,frame-120_05m27s160ms.png,It simply moves down the stack,CHIPS / CLOUD / APPS,"a tall three-layer tower drawn like a cake: bottom layer CHIPS (purple), middle CLOUD (grey), top APPS (orange); a green money sack rides a small elevator box up the side from the bottom layer toward the top"
+121,329.434,331.822,2.39,frame-121_05m29s434ms.png,Today a huge amount of capital is going,,huge pile of money poured into a foundation pit
+122,331.822,334.834,3.01,frame-122_05m31s822ms.png,into the infrastructure required to build AI,INFRASTRUCTURE,"builders laying concrete for an AI building, server racks rising"
+123,334.834,337.510,2.68,frame-123_05m34s834ms.png,Tomorrow investors may start asking,TOMORROW,"INVESTOR wakes under a new sun, scratching head"
+124,337.510,339.960,2.45,frame-124_05m37s510ms.png,Who actually makes money from AI,WHO MAKES MONEY?,INVESTOR holding a magnifying glass over a lineup of companies
+125,339.960,341.947,1.99,frame-125_05m39s960ms.png,That's a very different question,,HOST pointing at a big question mark that is orange instead of red
+126,341.947,346.734,4.79,frame-126_05m41s947ms.png,Imagine a company that spends $1 billion building AI infrastructure,$1B,company A builds a giant expensive server castle with a $1B price tag
+127,346.734,348.834,2.10,frame-127_05m46s734ms.png,Now imagine another company that spends,,"company B, a small office, with a single orange robot helper"
+128,348.834,351.872,3.04,frame-128_05m48s834ms.png,$100 million using AI to reduce its labor,$100M,the robot helps the office; a price tag of $100M on the robot
+129,351.872,354.834,2.96,frame-129_05m51s872ms.png,costs by $300 million every year,$300M / YEAR,money bag labeled $300M SAVED per year growing beside office
+130,354.834,357.460,2.63,frame-130_05m54s834ms.png,Which one has the better economics,?,the two companies on a seesaw scale
+131,357.460,358.960,1.50,frame-131_05m57s460ms.png,The second company,WINNER,company B with a crown and the robot giving thumbs up
+132,358.960,362.660,3.70,frame-132_05m58s960ms.png,That's why the next phase of the AI cycle could move from,NEXT PHASE,a big arrow begins from one side of the page
+133,362.660,364.047,1.39,frame-133_06m02s660ms.png,Infrastructure,INFRASTRUCTURE,left side: a grey stack of servers
+134,364.047,365.910,1.86,frame-134_06m04s047ms.png,to Applications,APPLICATIONS,right side: bright orange robots doing jobs
+135,365.910,367.247,1.34,frame-135_06m05s910ms.png,AI healthcare,HEALTHCARE,orange robot doctor with stethoscope checks a stick patient
+136,367.247,369.334,2.09,frame-136_06m07s247ms.png,AI financial services,FINANCE,robot at a bank desk counting coins
+137,369.334,371.160,1.83,frame-137_06m09s334ms.png,AI cybersecurity,CYBERSECURITY,robot guarding a computer with a shield vs a hooded hacker
+138,371.160,373.222,2.06,frame-138_06m11s160ms.png,AI enterprise software,ENTERPRISE SOFTWARE,robot typing code on a laptop with { }
+139,373.222,376.022,2.80,frame-139_06m13s222ms.png,AI agents AI automation,AGENTS / AUTOMATION,many little robots running errands with briefcases
+140,376.022,377.834,1.81,frame-140_06m16s022ms.png,AI drug discovery,DRUG DISCOVERY,robot with test tube and pill
+141,377.834,379.384,1.55,frame-141_06m17s834ms.png,AI education,EDUCATION,robot teacher at blackboard
+142,379.384,383.447,4.06,frame-142_06m19s384ms.png,The biggest winners may not be the companies selling the GPUs,,NVIDIA stands on a podium but the medal goes past it
+143,383.447,388.072,4.62,frame-143_06m23s447ms.png,They may be the companies using AI to completely change their cost structure,COSTS,a company happily cutting a huge cost bar with orange robot scissors
+144,388.072,391.410,3.34,frame-144_06m28s072ms.png,Destination Number Three Electricity,#3 ELECTRICITY,chapter title with a big yellow lightning bolt
+145,391.410,394.097,2.69,frame-145_06m31s410ms.png,Here's where the story gets complicated,,"HOST stands knotted up in long yellow power cords, arms pinned, one eyebrow raised"
+146,394.097,397.472,3.38,frame-146_06m34s097ms.png,Even if AI hardware spending eventually slows,HARDWARE SPENDING,a conveyor belt carrying purple GPU chips slows down; a green snail rides the front chip and a little speed dial on the belt points to SLOW
+147,397.472,399.760,2.29,frame-147_06m37s472ms.png,electricity demand may not,POWER DEMAND,"a giant round yellow electricity meter on a wall, its needle still jammed far into the high zone, a worker shading their eyes looking up at it"
+148,399.760,403.122,3.36,frame-148_06m39s760ms.png,Why Because AI is not just a chip problem,WHY?,"HOST crouches beside a single tiny purple chip on the floor, palms up in a big shrug"
+149,403.122,404.847,1.73,frame-149_06m43s122ms.png,It's an energy problem,ENERGY PROBLEM,the same tiny purple chip now dwarfed by an enormous yellow lightning bolt standing behind it like a skyscraper
+150,404.847,408.547,3.70,frame-150_06m44s847ms.png,A data center needs electricity whether the GPU inside is made by,,"a grey DATACENTER building with stick arms drags a giant black power plug toward a huge wall socket, sweating"
+151,408.547,412.522,3.98,frame-151_06m48s547ms.png,Nvidia AMD Google or someone else,NVIDIA / AMD / GOOGLE / ?,"four different chip characters with faces stand in a line, all holding cords plugged into one shared yellow power strip: green NVIDIA, red AMD, blue GOOGLE chip, and a grey one with a question mark"
+152,412.522,415.547,3.02,frame-152_06m52s522ms.png,And if AI continues to grow electricity,,"an orange robot grows out of a flowerpot like a plant, getting taller with a ruler beside it; a watering can pours yellow electricity on it"
+153,415.547,418.460,2.91,frame-153_06m55s547ms.png,infrastructure becomes increasingly valuable,,"a row of yellow high-voltage towers in a field, each with a green price tag that has an up arrow; an INVESTOR reaches for a tag"
+154,418.460,422.372,3.91,frame-154_06m58s460ms.png,That means the capital cycle could rotate from chips,CHIPS,a merry-go-round where every seat is a purple chip; INVESTOR figures ride them
+155,422.372,423.760,1.39,frame-155_07m02s372ms.png,to power,POWER,the same merry-go-round has turned: the seats facing us are now yellow lightning bolts and the INVESTORS hop onto them
+156,423.760,425.322,1.56,frame-156_07m03s760ms.png,Transmission lines,TRANSMISSION LINES,"high-voltage towers march across hills to the horizon, a worker climbing the nearest one"
+157,425.322,427.284,1.96,frame-157_07m05s322ms.png,Natural gas generation,NATURAL GAS,"a squat natural gas plant with a big blue flame on top, a worker toasting a marshmallow on it"
+158,427.284,428.660,1.38,frame-158_07m07s284ms.png,Nuclear power,NUCLEAR,a nuclear cooling tower puffing a big white cloud shaped like a dollar sign
+159,428.660,431.284,2.62,frame-159_07m08s660ms.png,Grid upgrades Transformers,GRID UPGRADES / TRANSFORMERS,two workers bolt a huge grey transformer box onto a pole; yellow sparks fly
+160,431.284,433.622,2.34,frame-160_07m11s284ms.png,Cooling Energy storage,COOLING / ENERGY STORAGE,"giant blue fans blow on a server rack while a huge green battery stands beside it, half full"
+161,433.622,435.872,2.25,frame-161_07m13s622ms.png,And data-center infrastructure,DATA-CENTER INFRASTRUCTURE,a bird's-eye data-center campus: grey DATACENTER buildings connected by yellow power lines to a power plant and battery yard
+162,435.872,438.534,2.66,frame-162_07m15s872ms.png,This creates an interesting scenario,,HOST rubs their chin in front of a blank easel
+163,438.534,442.072,3.54,frame-163_07m18s534ms.png,You could have AI chip valuations falling,CHIP VALUATIONS,"NVIDIA chip character slides down a red falling line chart like a playground slide, looking worried"
+164,442.072,446.110,4.04,frame-164_07m22s072ms.png,while electricity infrastructure continues to attract capital,,a yellow power-plant character climbs a rising yellow line chart while green money flows up to meet it
+165,446.110,450.122,4.01,frame-165_07m26s110ms.png,In other words The AI trade doesn't necessarily die,AI TRADE,"a green blob labeled AI TRADE stretches mid-transformation: its left half is chip-shaped, right half is lightning-shaped"
+166,450.122,451.560,1.44,frame-166_07m30s122ms.png,It changes shape,,"the blob has fully become a cheerful yellow lightning bolt waving hello, an empty chip-shaped outline on the floor"
+167,451.560,455.472,3.91,frame-167_07m31s560ms.png,Destination Number Four The Rest of the Stock Market,#4 THE REST OF THE MARKET,hand-drawn chapter title above a stock-exchange building with columns and a ticker tape
+168,455.472,459.434,3.96,frame-168_07m35s472ms.png,This is where the second-order effect becomes really interesting,SECOND-ORDER EFFECT,a hand drops a stone into a blue pond; ripples spread and rock little boats labeled with company names
+169,459.434,462.184,2.75,frame-169_07m39s434ms.png,Suppose companies suddenly stop spending hundreds,,the four BIGTECH buildings zip their big wallets shut and tuck them away
+170,462.184,465.322,3.14,frame-170_07m42s184ms.png,of billions of dollars building AI infrastructure,HUNDREDS OF BILLIONS,"a towering stack of green money sits on a table where the spending used to go, a little crane idle beside it"
+171,465.322,467.497,2.17,frame-171_07m45s322ms.png,That money has to go somewhere,?,the money stack sprouts many black arrows pointing outward in every direction
+172,467.497,470.897,3.40,frame-172_07m47s497ms.png,Some of it could simply stay on corporate balance sheets,BALANCE SHEET,a building character stuffs money into a tall brown filing cabinet drawer
+173,470.897,473.434,2.54,frame-173_07m50s897ms.png,Some could be returned to shareholders,SHAREHOLDERS,a building character leans down and hands money to a line of smiling INVESTORS
+174,473.434,475.434,2.00,frame-174_07m53s434ms.png,Buybacks Dividends,BUYBACKS / DIVIDENDS,left: building vacuums up its own stock papers; right: building drops green dividend envelopes into mailboxes
+175,475.434,479.800,4.37,frame-175_07m55s434ms.png,M&A And some could move into completely different industries,M&A,two building characters shake hands and their walls start fusing; behind them a few money bills walk away toward a farm and a factory
+176,479.800,482.837,3.04,frame-176_07m59s800ms.png,Imagine a world where Microsoft says,,"MICROSOFT building at a podium with microphones, reporters in front"
+177,482.837,487.674,4.84,frame-177_08m02s837ms.png,We're no longer going to increase AI capex by $50 billion next year,+$50B CAPEX,MICROSOFT holds up a sign showing a big plus amount crossed out with a red X
+178,487.674,489.474,1.80,frame-178_08m07s674ms.png,What happens to that money,,a pile of green money sits alone on the ground with a big red question mark above it
+179,489.474,491.062,1.59,frame-179_08m09s474ms.png,It doesn't disappear,,a stick-figure magician waves a wand at the money pile and is shocked that it's still there
+180,491.062,493.887,2.83,frame-180_08m11s062ms.png,Maybe Microsoft buys another company,,MICROSOFT carries a smaller yellow building under its arm like a puppy
+181,493.887,495.824,1.94,frame-181_08m13s887ms.png,Maybe it buys back shares,BUYBACK,MICROSOFT scoops stock certificates into a sack with its own name on them
+182,495.824,497.700,1.88,frame-182_08m15s824ms.png,Maybe it reduces debt,DEBT,MICROSOFT snaps a heavy grey chain labeled DEBT from its ankle with bolt cutters
+183,497.700,500.500,2.80,frame-183_08m17s700ms.png,Maybe it invests in cybersecurity,CYBERSECURITY,MICROSOFT stands behind a big blue shield as hooded hackers' arrows bounce off
+184,500.500,502.424,1.92,frame-184_08m20s500ms.png,Maybe it pays dividends,DIVIDENDS,MICROSOFT tosses green envelopes to a cheering crowd
+185,502.424,505.674,3.25,frame-185_08m22s424ms.png,And if many companies do this at the same time,,all four BIGTECH buildings doing these actions at once across the frame
+186,505.674,508.237,2.56,frame-186_08m25s674ms.png,you could see a broad rotation from,ROTATION,a big curved black arrow sweeps from left to right across the page
+187,508.237,510.012,1.77,frame-187_08m28s237ms.png,capital expenditure,CAPITAL EXPENDITURE,"left side: cranes, server racks and a cement mixer piled up"
+188,510.012,512.512,2.50,frame-188_08m30s012ms.png,toward shareholder returns,SHAREHOLDER RETURNS,"right side: INVESTORS holding money bags and dividend envelopes, smiling"
+189,512.512,515.174,2.66,frame-189_08m32s512ms.png,That's a very different market environment,NEW MARKET,a construction site on the left blends into a calm green park on the right where INVESTORS picnic
+190,515.174,518.524,3.35,frame-190_08m35s174ms.png,Destination Number Five The Next Bubble,#5 THE NEXT BUBBLE,chapter title with a big shiny soap bubble floating
+191,518.524,521.824,3.30,frame-191_08m38s524ms.png,And this may be the most uncomfortable possibility,,"HOST tugs their collar nervously, sweat drop"
+192,521.824,525.787,3.96,frame-192_08m41s824ms.png,Capital doesn't always move toward the most rational investment,,a green money sack with legs runs past a sensible grey bank toward a bright carnival tent
+193,525.787,529.112,3.33,frame-193_08m45s787ms.png,Sometimes it simply searches for another story,NEW STORY,"the money sack sits reading a big book titled NEW STORY, eyes wide"
+194,529.112,533.400,4.29,frame-194_08m49s112ms.png,If AI infrastructure stops delivering extraordinary returns,,a fountain shaped like a server rack stops spouting money; last coin drips out
+195,533.400,536.274,2.87,frame-195_08m53s400ms.png,investors don't suddenly become rational,,INVESTORS stampede excitedly with butterfly nets
+196,536.274,537.924,1.65,frame-196_08m56s274ms.png,They start looking for,,three INVESTORS on a hill scanning with binoculars
+197,537.924,539.262,1.34,frame-197_08m57s924ms.png,the next AI,THE NEXT AI,a giant glowing purple question mark rises over the horizon
+198,539.262,541.000,1.74,frame-198_08m59s262ms.png,Maybe it's robotics,ROBOTICS?,a clunky humanoid robot walks stiffly with INVESTORS following it
+199,541.000,542.424,1.42,frame-199_09m01s000ms.png,Maybe biotech,BIOTECH?,a giant green DNA helix with INVESTORS climbing it like a ladder
+200,542.424,544.112,1.69,frame-200_09m02s424ms.png,Maybe nuclear power,NUCLEAR?,a big yellow atom symbol with INVESTORS orbiting around it
+201,544.112,546.562,2.45,frame-201_09m04s112ms.png,Maybe space Maybe crypto,SPACE? / CRYPTO?,"a red rocket on one side, a giant gold coin on the other, an INVESTOR torn between them"
+202,546.562,548.562,2.00,frame-202_09m06s562ms.png,Maybe tokenized assets,TOKENIZED ASSETS?,a building being sliced into gold coins by a pizza cutter
+203,548.562,551.174,2.61,frame-203_09m08s562ms.png,Maybe something we haven't even named yet,???,"a big brown mystery box with ??? on it, an INVESTOR peeking inside"
+204,551.174,554.562,3.39,frame-204_09m11s174ms.png,This is one of the defining characteristics of bubbles,BUBBLES,"a sky full of soap bubbles of different colors, some popping"
+205,554.562,557.724,3.16,frame-205_09m14s562ms.png,Capital doesn't disappear It migrates,IT MIGRATES,green dollar bills flying in a V formation like migrating birds
+206,557.724,559.474,1.75,frame-206_09m17s724ms.png,But Here's the Real Problem,THE REAL PROBLEM,chapter title with a big red crack running through the ground
+207,559.474,562.062,2.59,frame-207_09m19s474ms.png,There is a much more dangerous scenario,,HOST holds up a yellow warning triangle sign
+208,562.062,565.337,3.27,frame-208_09m22s062ms.png,What if AI capex doesn't simply slow down,AI CAPEX,a purple truck labeled AI CAPEX brakes slowly on a road
+209,565.337,569.662,4.33,frame-209_09m25s337ms.png,but collapses because the financial system can no longer support it,FINANCIAL SYSTEM,the same truck crosses a grey bridge labeled FINANCIAL SYSTEM that cracks and buckles
+210,569.662,571.912,2.25,frame-210_09m29s662ms.png,That's different Imagine,,HOST points at a blank thought bubble
+211,571.912,574.324,2.41,frame-211_09m31s912ms.png,AI companies need more capital,NEED CAPITAL,an AI company building holds out a tin cup on the sidewalk
+212,574.324,576.600,2.28,frame-212_09m34s324ms.png,But investors become nervous,,"INVESTORS clutching their briefcases tightly, sweat drops flying"
+213,576.600,578.087,1.49,frame-213_09m36s600ms.png,Bond yields rise,BOND YIELDS,a big red arrow shoots up through a blue Treasury certificate
+214,578.087,579.812,1.73,frame-214_09m38s087ms.png,Credit spreads widen,CREDIT SPREADS,"two lines on a chart pull apart, a stick figure stretched between them"
+215,579.812,582.600,2.79,frame-215_09m39s812ms.png,Private credit becomes more expensive,PRIVATE CREDIT,a price tag on a loan document balloons bigger and bigger
+216,582.600,584.962,2.36,frame-216_09m42s600ms.png,Data-center projects get delayed,DELAYED,a half-built DATACENTER with a big DELAYED sign and workers napping
+217,584.962,587.074,2.11,frame-217_09m44s962ms.png,GPU orders are canceled,CANCELED,NVIDIA looks at an order form stamped CANCELED in red
+218,587.074,589.350,2.28,frame-218_09m47s074ms.png,Semiconductor revenues fall,REVENUE,a chip-maker character watches a revenue bar chart sink into the floor
+219,589.350,590.700,1.35,frame-219_09m49s350ms.png,The stocks fall,,a stock price line runs off a cliff edge
+220,590.700,593.937,3.24,frame-220_09m50s700ms.png,Then the cost of capital rises even further,COST OF CAPITAL,a giant thermometer labeled COST OF CAPITAL bursts its top with red
+221,593.937,597.737,3.80,frame-221_09m53s937ms.png,And now the AI investment cycle becomes a feedback loop,FEEDBACK LOOP,"a circle of red arrows with little icons: yields, delays, cancellations, stocks falling"
+222,597.737,601.562,3.83,frame-222_09m57s737ms.png,That's when an investment boom can turn into a credit cycle,CREDIT CYCLE,a balloon labeled BOOM pops and turns into a grey storm cloud raining on buildings
+223,601.562,604.812,3.25,frame-223_10m01s562ms.png,And this is the scenario I would watch most carefully,,HOST watches from a tall watchtower with binoculars
+224,604.812,607.087,2.27,frame-224_10m04s812ms.png,Not Is AI fake,IS AI FAKE?,an orange robot holds a sign FAKE? and HOST crosses it out with red
+225,607.087,612.124,5.04,frame-225_10m07s087ms.png,But Can the financial system continue funding AI at the current speed,CAN THE SYSTEM KEEP FUNDING AI?,a purple AI train speeds over a creaking grey bridge held up by bankers straining
+226,612.124,614.262,2.14,frame-226_10m12s124ms.png,The $1 Trillion Question,THE $1 TRILLION QUESTION,chapter title with a huge green money bag labeled $1T
+227,614.262,616.950,2.69,frame-227_10m14s262ms.png,So let's go back to our original question,START,HOST walks back along a dotted path to a starting sign
+228,616.950,621.900,4.95,frame-228_10m16s950ms.png,If $1 trillion of expected AI infrastructure spending disappears,$1 TRILLION,the $1T money bag disappears in a puff of smoke
+229,621.900,624.950,3.05,frame-229_10m21s900ms.png,where does it go The answer is probably,?,HOST spins around looking for the money
+230,624.950,626.862,1.91,frame-230_10m24s950ms.png,It doesn't go to one place,NOT ONE PLACE,the money bag splits into several smaller bags
+231,626.862,628.300,1.44,frame-231_10m26s862ms.png,It gets divided,,a big hand-drawn pie chart with six colored slices
+232,628.300,630.324,2.02,frame-232_10m28s300ms.png,Some goes into Treasuries,TREASURIES,a blue slice of pie slides onto a blue Treasury plate
+233,630.324,632.337,2.01,frame-233_10m30s324ms.png,Some into other equities,OTHER EQUITIES,a red/green slice slides onto a stock-ticker plate
+234,632.337,634.712,2.38,frame-234_10m32s337ms.png,Some into AI applications,AI APPLICATIONS,an orange slice is eaten by orange robots
+235,634.712,637.637,2.92,frame-235_10m34s712ms.png,Some into electricity infrastructure,ELECTRICITY,a yellow slice plugged into a power socket
+236,637.637,640.150,2.51,frame-236_10m37s637ms.png,Some gets returned to shareholders,SHAREHOLDERS,a green slice served to INVESTORS
+237,640.150,643.562,3.41,frame-237_10m40s150ms.png,And some chases the next speculative opportunity,SPECULATION,a purple slice launched from a rocket
+238,643.562,646.000,2.44,frame-238_10m43s562ms.png,But there's something even more important,,HOST lifts a finger with a light bulb above their head
+239,646.000,650.100,4.10,frame-239_10m46s000ms.png,The direction of the money may tell us where we are in the AI cycle,DIRECTION OF MONEY,a big compass whose needle is a green dollar bill
+240,650.100,651.762,1.66,frame-240_10m50s100ms.png,Early in the cycle,EARLY,"a long timeline arrow, a marker at the left end"
+241,651.762,654.474,2.71,frame-241_10m51s762ms.png,Capital flows into infrastructure,INFRASTRUCTURE,money flows into server racks
+242,654.474,656.137,1.66,frame-242_10m54s474ms.png,Middle of the cycle,MIDDLE,marker moves to the middle of the timeline
+243,656.137,658.750,2.61,frame-243_10m56s137ms.png,Capital flows into applications,APPLICATIONS,money flows into orange robots
+244,658.750,660.312,1.56,frame-244_10m58s750ms.png,Late in the cycle,LATE,marker moves to the right part of the timeline
+245,660.312,662.900,2.59,frame-245_11m00s312ms.png,Capital flows into speculation,SPECULATION,money flows into a carnival tent
+246,662.900,664.600,1.70,frame-246_11m02s900ms.png,And after the cycle,AFTER,marker moves beyond the end of the timeline
+247,664.600,667.974,3.37,frame-247_11m04s600ms.png,Capital flows toward cash flow and productivity,CASH FLOW / PRODUCTIVITY,money flows into a factory with a rising chart
+248,667.974,670.162,2.19,frame-248_11m07s974ms.png,That's the transition I'm watching,,HOST at a window watching money flow past
+249,670.162,673.850,3.69,frame-249_11m10s162ms.png,The Biggest AI Winner May Not Look Like an AI Company,THE BIGGEST AI WINNER,chapter title with a factory and a crown on top
+250,673.850,675.637,1.79,frame-250_11m13s850ms.png,Here's the final twist,,HOST twists a giant brown pretzel
+251,675.637,679.237,3.60,frame-251_11m15s637ms.png,Imagine that five years from now AI really does work,2031,wall calendar flips to 2031 with a robot waving
+252,679.237,682.450,3.21,frame-252_11m19s237ms.png,Companies become dramatically more productive,,office workers doing twice the work with robot helpers
+253,682.450,685.050,2.60,frame-253_11m22s450ms.png,Software development becomes cheaper,SOFTWARE,a price tag on a software box drops
+254,685.050,687.774,2.72,frame-254_11m25s050ms.png,Customer service becomes automated,CUSTOMER SERVICE,orange robots answering a row of phones
+255,687.774,690.224,2.45,frame-255_11m27s774ms.png,Healthcare becomes more predictive,HEALTHCARE,a doctor robot looking into a crystal ball showing a heart
+256,690.224,693.737,3.51,frame-256_11m30s224ms.png,Financial analysis becomes largely automated,FINANCIAL ANALYSIS,"robot at a desk with charts, a human relaxing nearby"
+257,693.737,696.400,2.66,frame-257_11m33s737ms.png,Manufacturing becomes more efficient,MANUFACTURING,an efficient factory with conveyors running smoothly
+258,696.400,701.750,5.35,frame-258_11m36s400ms.png,What happens The ultimate winners may not be the companies with the most GPUs,,"a company sits on a huge pile of GPUs without a medal, looking at a podium"
+259,701.750,703.862,2.11,frame-259_11m41s750ms.png,They may be the companies with,,a small company climbs a winners podium
+260,703.862,706.074,2.21,frame-260_11m43s862ms.png,the highest productivity gains,PRODUCTIVITY,a productivity line chart soaring
+261,706.074,708.937,2.86,frame-261_11m46s074ms.png,AI becomes less of an investment theme,AI THEME,an AI THEME poster fading on a wall
+262,708.937,711.362,2.42,frame-262_11m48s937ms.png,and more of an economic input,INPUT,an orange robot plugs into a big economy machine as a cog
+263,711.362,713.150,1.79,frame-263_11m51s362ms.png,Just like electricity,ELECTRICITY,a glowing light bulb
+264,713.150,714.787,1.64,frame-264_11m53s150ms.png,Just like computers,COMPUTERS,an old desktop computer
+265,714.787,716.374,1.59,frame-265_11m54s787ms.png,Just like the internet,INTERNET,a globe wrapped in cables
+266,716.374,719.650,3.28,frame-266_11m56s374ms.png,And when that happens the market will stop asking,,a reporter microphone pointed at a building
+267,719.650,722.062,2.41,frame-267_11m59s650ms.png,How much are you spending on AI,HOW MUCH ARE YOU SPENDING?,"a sign with a spending question, crossed out"
+268,722.062,723.800,1.74,frame-268_12m02s062ms.png,It will start asking,,the reporter turns to a new board
+269,723.800,726.324,2.52,frame-269_12m03s800ms.png,How much profit does AI create,HOW MUCH PROFIT?,"a sign with a profit question, circled in green"
+270,726.324,730.512,4.19,frame-270_12m06s324ms.png,That is the moment the AI story becomes much bigger than Nvidia,BIGGER THAN NVIDIA,a giant AI story book towering over a small NVIDIA chip
+271,730.512,734.724,4.21,frame-271_12m10s512ms.png,Final Thought So I don't think the most interesting question is,FINAL THOUGHT,chapter title with HOST sitting thoughtfully
+272,734.724,736.362,1.64,frame-272_12m14s724ms.png,Is AI a bubble,IS AI A BUBBLE?,HOST pokes a big soap bubble
+273,736.362,738.162,1.80,frame-273_12m16s362ms.png,Because the answer could be,,HOST opens an envelope
+274,738.162,739.537,1.38,frame-274_12m18s162ms.png,Yes And,YES,a big card YES pops out
+275,739.537,742.237,2.70,frame-275_12m19s537ms.png,AI could still transform the economy,,an orange robot reshapes a city with tools
+276,742.237,743.662,1.43,frame-276_12m22s237ms.png,Both can be true,BOTH TRUE,"two cards side by side, both with green checks"
+277,743.662,745.887,2.23,frame-277_12m23s662ms.png,The more interesting question is,,HOST points upward to a big question banner
+278,745.887,749.224,3.34,frame-278_12m25s887ms.png,What happens when the world's largest companies stop increasing,,the four BIGTECH buildings pull back on giant brake levers
+279,749.224,752.687,3.46,frame-279_12m29s224ms.png,AI capital expenditure at today's extraordinary rate,AI CAPEX,a capex rocket's flames shrink
+280,752.687,754.937,2.25,frame-280_12m32s687ms.png,If that happens watch the money,WATCH THE MONEY,HOST stands in front of a dashboard of five gauges
+281,754.937,756.687,1.75,frame-281_12m34s937ms.png,Watch Treasury yields,TREASURY YIELDS,close-up of the blue gauge
+282,756.687,758.350,1.66,frame-282_12m36s687ms.png,Watch credit spreads,CREDIT SPREADS,close-up of the red gauge
+283,758.350,760.500,2.15,frame-283_12m38s350ms.png,Watch data-center financing,DATA-CENTER FINANCING,close-up of the grey gauge with a little building icon
+284,760.500,762.662,2.16,frame-284_12m40s500ms.png,Watch semiconductor orders,SEMICONDUCTOR ORDERS,close-up of the purple gauge with a chip icon
+285,762.662,765.050,2.39,frame-285_12m42s662ms.png,Watch electricity investment,ELECTRICITY INVESTMENT,close-up of the yellow gauge with a lightning icon
+286,765.050,766.787,1.74,frame-286_12m45s050ms.png,And most importantly,,HOST raises a finger
+287,766.787,770.200,3.41,frame-287_12m46s787ms.png,watch where investors start putting their money next,NEXT?,INVESTORS carry money bags toward a glowing new door
+288,770.200,772.812,2.61,frame-288_12m50s200ms.png,Because the end of one capital cycle,,an old wooden cycle wheel slows and creaks to a stop
+289,772.812,775.312,2.50,frame-289_12m52s812ms.png,is usually the beginning of another,,a fresh green wheel starts turning beside it
+290,775.312,779.037,3.73,frame-290_12m55s312ms.png,The AI boom may not end with the destruction of capital,,a pile of money with a fire crossed out
+291,779.037,781.924,2.89,frame-291_12m59s037ms.png,It may end with the migration of capital,MIGRATION OF CAPITAL,money bills flying as birds over mountains
+292,781.924,783.574,1.65,frame-292_13m01s924ms.png,And that migration,,the flock heads toward a bright horizon
+293,783.574,785.976,2.40,frame-293_13m03s574ms.png,could be the next trillion-dollar trade,THE NEXT TRILLION-DOLLAR TRADE,a giant gold $1T coin rises at the horizon; HOST and INVESTORS run toward it

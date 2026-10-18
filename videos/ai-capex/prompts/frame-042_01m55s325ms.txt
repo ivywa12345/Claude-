@@ -1,0 +1,14 @@
+One horizontal 16:9 YouTube frame. Intentionally crude beginner MS Paint drawing, wobbly thick uneven black outlines, basic shapes, flat bucket-fill colors, pure white background. All subjects use this same crude visual language. People are simple stick figures with round heads, dot eyes, black stick bodies and limbs, and basic expressions and gestures. Vivid saturated colors with a clear primary focal area and quieter supporting colors. Build a readable action scene; do not shrink everything into a tiny isolated icon. Keep important faces, hands, labels and contact points fully visible. Flat 2D; no gradients, shading, texture, 3D or cinematic lighting. Amateur, funny and deliberately awkward, not polished illustration. No narration subtitles, timestamps, logos, extra labels or decorative objects.
+
+Continuity (only what appears in this shot):
+- a big bright-green square computer-chip character with gold pins as feet, simple face and stick arms, label NVIDIA on its body
+- electricity is always bright yellow: lightning bolts, power lines, glowing yellow wires
+- capital is always drawn as bright green dollar bills, green sacks marked $, or a river of green coins
+
+Composition (raise more): NVIDIA and a power-plant character hold out top hats and green money pours in from the sky
+
+Color: green money rain, black hats
+
+Exact on-screen text: "MORE CAPITAL"
+
+Narration context (do not print it): "That makes it easier for them to raise even more capital"

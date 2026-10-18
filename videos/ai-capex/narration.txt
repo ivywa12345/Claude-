@@ -1,0 +1,595 @@
+Imagine waking up one morning and hearing this:
+
+Microsoft is cutting its AI spending.
+
+Google is slowing down data-center construction.
+
+Amazon is delaying new GPU purchases.
+
+Meta is pushing back its next round of AI infrastructure investment.
+
+And Nvidia suddenly tells investors:
+
+“We still expect strong AI demand — but customers are no longer increasing their spending at the same pace.”
+
+The first reaction would probably be obvious.
+
+Sell Nvidia.
+
+Sell semiconductors.
+
+Sell data centers.
+
+Sell anything related to AI.
+
+But there is a much bigger question.
+
+What happens to all the money that was supposed to be spent on AI?
+
+Because this isn't just about Nvidia.
+
+The AI boom has become one of the largest capital-spending cycles in modern history.
+
+Hundreds of billions of dollars are being committed to GPUs, data centers, networking equipment, power plants, cooling systems and electricity infrastructure.
+
+And if AI capex eventually peaks, or even collapses...
+
+where does that capital go?
+
+That question may be more important than whether AI is a bubble.
+
+The AI Boom Is Really a Capital-Spending Boom.
+
+When people talk about the AI boom, they usually talk about artificial intelligence.
+
+But financially, something else is happening.
+
+It's a massive capital-expenditure cycle.
+
+The chain looks something like this:
+
+Investors provide capital.
+
+Big technology companies spend that capital.
+
+They build data centers.
+
+They buy GPUs.
+
+They buy networking equipment.
+
+They consume enormous amounts of electricity.
+
+And companies like Nvidia, Broadcom, utilities, construction companies and data-center operators collect the money.
+
+Then investors look at those companies and say:
+
+“AI demand is exploding.”
+
+Their valuations rise.
+
+That makes it easier for them to raise even more capital.
+
+And the cycle continues.
+
+So the AI boom isn't just a technology story.
+
+It's also a financial cycle.
+
+And financial cycles eventually face one question:
+
+What is the return on all this capital?
+
+The Problem Isn't That AI Doesn't Work.
+
+This is where I think the AI debate often gets confused.
+
+There are two very different statements:
+
+AI is transformative.
+
+And:
+
+Every dollar being invested in AI infrastructure today will earn an attractive return.
+
+The first statement can be true while the second one is completely false.
+
+Think about the early internet.
+
+The internet was real.
+
+It changed the world.
+
+But investors still built too much fiber-optic capacity, too many networks and too many companies.
+
+The technology won.
+
+Many investors didn't.
+
+That's an important distinction.
+
+The AI economy could be exactly the same.
+
+AI could become one of the most important technologies in history...
+
+while the market still spends too much money, too quickly, on the wrong infrastructure.
+
+So What Happens If AI Capex Peaks?
+
+Let's say something extreme happens.
+
+Today, hyperscalers are increasing AI infrastructure spending aggressively.
+
+But over the next two or three years, something changes.
+
+Companies realize:
+
+“We've built enough capacity.”
+
+AI models become more efficient.
+
+Inference becomes cheaper.
+
+GPU utilization improves.
+
+And the economic return from another $100 billion of data centers isn't as attractive as it used to be.
+
+So instead of increasing capex by 30 or 40 percent...
+
+companies increase it by 5 percent.
+
+Then zero.
+
+And eventually...
+
+capex starts falling.
+
+Now let's ask the interesting question.
+
+Where does the money go?
+
+I see at least five possible destinations.
+
+Destination Number One: Back to Bonds.
+
+This is the most interesting possibility from a macro perspective.
+
+AI infrastructure requires enormous amounts of capital.
+
+And a lot of that capital doesn't come from cash sitting in a checking account.
+
+It comes from:
+
+corporate cash flow,
+
+banks,
+
+private credit,
+
+bond markets,
+
+equity markets,
+
+and institutional investors.
+
+If the demand for AI infrastructure suddenly slows...
+
+the demand for capital also slows.
+
+And when the economy doesn't need as much capital for investment, investors start looking for another place to put their money.
+
+One obvious destination is:
+
+government bonds.
+
+Especially U.S. Treasuries.
+
+Think about the chain reaction.
+
+AI capex slows.
+
+Data-center construction slows.
+
+Demand for project financing falls.
+
+Corporate borrowing falls.
+
+Investors need fewer risky assets to finance.
+
+At the same time, if weaker AI investment starts slowing economic growth...
+
+the Federal Reserve may have more room to cut rates.
+
+And suddenly Treasuries become much more attractive.
+
+So ironically...
+
+a collapse in AI capex could eventually become bullish for bonds.
+
+This is one reason I wouldn't automatically interpret falling AI spending as purely bearish for markets.
+
+It could be bearish for one part of the market...
+
+while bullish for another.
+
+Destination Number Two: AI Applications.
+
+But there is another possibility.
+
+The money doesn't leave AI.
+
+It simply moves down the stack.
+
+Today, a huge amount of capital is going into the infrastructure required to build AI.
+
+Tomorrow, investors may start asking:
+
+Who actually makes money from AI?
+
+That's a very different question.
+
+Imagine a company that spends $1 billion building AI infrastructure.
+
+Now imagine another company that spends $100 million using AI to reduce its labor costs by $300 million every year.
+
+Which one has the better economics?
+
+The second company.
+
+That's why the next phase of the AI cycle could move from:
+
+Infrastructure
+
+to:
+
+Applications.
+
+AI healthcare.
+
+AI financial services.
+
+AI cybersecurity.
+
+AI enterprise software.
+
+AI agents.
+
+AI automation.
+
+AI drug discovery.
+
+AI education.
+
+The biggest winners may not be the companies selling the GPUs.
+
+They may be the companies using AI to completely change their cost structure.
+
+Destination Number Three: Electricity.
+
+Here's where the story gets complicated.
+
+Even if AI hardware spending eventually slows...
+
+electricity demand may not.
+
+Why?
+
+Because AI is not just a chip problem.
+
+It's an energy problem.
+
+A data center needs electricity whether the GPU inside is made by Nvidia, AMD, Google or someone else.
+
+And if AI continues to grow, electricity infrastructure becomes increasingly valuable.
+
+That means the capital cycle could rotate from:
+
+chips
+
+to:
+
+power.
+
+Transmission lines.
+
+Natural gas generation.
+
+Nuclear power.
+
+Grid upgrades.
+
+Transformers.
+
+Cooling.
+
+Energy storage.
+
+And data-center infrastructure.
+
+This creates an interesting scenario.
+
+You could have:
+
+AI chip valuations falling...
+
+while electricity infrastructure continues to attract capital.
+
+In other words:
+
+The AI trade doesn't necessarily die.
+
+It changes shape.
+
+Destination Number Four: The Rest of the Stock Market.
+
+This is where the second-order effect becomes really interesting.
+
+Suppose companies suddenly stop spending hundreds of billions of dollars building AI infrastructure.
+
+That money has to go somewhere.
+
+Some of it could simply stay on corporate balance sheets.
+
+Some could be returned to shareholders.
+
+Buybacks.
+
+Dividends.
+
+M&A.
+
+And some could move into completely different industries.
+
+Imagine a world where Microsoft says:
+
+“We're no longer going to increase AI capex by $50 billion next year.”
+
+What happens to that money?
+
+It doesn't disappear.
+
+Maybe Microsoft buys another company.
+
+Maybe it buys back shares.
+
+Maybe it reduces debt.
+
+Maybe it invests in cybersecurity.
+
+Maybe it pays dividends.
+
+And if many companies do this at the same time...
+
+you could see a broad rotation from:
+
+capital expenditure
+
+toward:
+
+shareholder returns.
+
+That's a very different market environment.
+
+Destination Number Five: The Next Bubble.
+
+And this may be the most uncomfortable possibility.
+
+Capital doesn't always move toward the most rational investment.
+
+Sometimes it simply searches for another story.
+
+If AI infrastructure stops delivering extraordinary returns...
+
+investors don't suddenly become rational.
+
+They start looking for:
+
+the next AI.
+
+Maybe it's robotics.
+
+Maybe biotech.
+
+Maybe nuclear power.
+
+Maybe space.
+
+Maybe crypto.
+
+Maybe tokenized assets.
+
+Maybe something we haven't even named yet.
+
+This is one of the defining characteristics of bubbles.
+
+Capital doesn't disappear.
+
+It migrates.
+
+But Here's the Real Problem.
+
+There is a much more dangerous scenario.
+
+What if AI capex doesn't simply slow down...
+
+but collapses because the financial system can no longer support it?
+
+That's different.
+
+Imagine:
+
+AI companies need more capital.
+
+But investors become nervous.
+
+Bond yields rise.
+
+Credit spreads widen.
+
+Private credit becomes more expensive.
+
+Data-center projects get delayed.
+
+GPU orders are canceled.
+
+Semiconductor revenues fall.
+
+The stocks fall.
+
+Then the cost of capital rises even further.
+
+And now the AI investment cycle becomes a feedback loop.
+
+That's when an investment boom can turn into a credit cycle.
+
+And this is the scenario I would watch most carefully.
+
+Not:
+
+“Is AI fake?”
+
+But:
+
+“Can the financial system continue funding AI at the current speed?”
+
+The $1 Trillion Question.
+
+So let's go back to our original question.
+
+If $1 trillion of expected AI infrastructure spending disappears...
+
+where does it go?
+
+The answer is probably:
+
+It doesn't go to one place.
+
+It gets divided.
+
+Some goes into Treasuries.
+
+Some into other equities.
+
+Some into AI applications.
+
+Some into electricity infrastructure.
+
+Some gets returned to shareholders.
+
+And some chases the next speculative opportunity.
+
+But there's something even more important.
+
+The direction of the money may tell us where we are in the AI cycle.
+
+Early in the cycle:
+
+Capital flows into infrastructure.
+
+Middle of the cycle:
+
+Capital flows into applications.
+
+Late in the cycle:
+
+Capital flows into speculation.
+
+And after the cycle:
+
+Capital flows toward cash flow and productivity.
+
+That's the transition I'm watching.
+
+The Biggest AI Winner May Not Look Like an AI Company.
+
+Here's the final twist.
+
+Imagine that five years from now AI really does work.
+
+Companies become dramatically more productive.
+
+Software development becomes cheaper.
+
+Customer service becomes automated.
+
+Healthcare becomes more predictive.
+
+Financial analysis becomes largely automated.
+
+Manufacturing becomes more efficient.
+
+What happens?
+
+The ultimate winners may not be the companies with the most GPUs.
+
+They may be the companies with:
+
+the highest productivity gains.
+
+AI becomes less of an investment theme...
+
+and more of an economic input.
+
+Just like electricity.
+
+Just like computers.
+
+Just like the internet.
+
+And when that happens, the market will stop asking:
+
+“How much are you spending on AI?”
+
+It will start asking:
+
+“How much profit does AI create?”
+
+That is the moment the AI story becomes much bigger than Nvidia.
+
+Final Thought.
+
+So I don't think the most interesting question is:
+
+“Is AI a bubble?”
+
+Because the answer could be:
+
+Yes.
+
+And:
+
+AI could still transform the economy.
+
+Both can be true.
+
+The more interesting question is:
+
+What happens when the world's largest companies stop increasing AI capital expenditure at today's extraordinary rate?
+
+If that happens, watch the money.
+
+Watch Treasury yields.
+
+Watch credit spreads.
+
+Watch data-center financing.
+
+Watch semiconductor orders.
+
+Watch electricity investment.
+
+And most importantly...
+
+watch where investors start putting their money next.
+
+Because the end of one capital cycle...
+
+is usually the beginning of another.
+
+The AI boom may not end with the destruction of capital.
+
+It may end with the migration of capital.
+
+And that migration...
+
+could be the next trillion-dollar trade.

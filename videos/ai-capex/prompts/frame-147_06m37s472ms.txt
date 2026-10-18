@@ -1,0 +1,12 @@
+One horizontal 16:9 YouTube frame. Intentionally crude beginner MS Paint drawing, wobbly thick uneven black outlines, basic shapes, flat bucket-fill colors, pure white background. All subjects use this same crude visual language. People are simple stick figures with round heads, dot eyes, black stick bodies and limbs, and basic expressions and gestures. Vivid saturated colors with a clear primary focal area and quieter supporting colors. Build a readable action scene; do not shrink everything into a tiny isolated icon. Keep important faces, hands, labels and contact points fully visible. Flat 2D; no gradients, shading, texture, 3D or cinematic lighting. Amateur, funny and deliberately awkward, not polished illustration. No narration subtitles, timestamps, logos, extra labels or decorative objects.
+
+Continuity (only what appears in this shot):
+- electricity is always bright yellow: lightning bolts, power lines, glowing yellow wires
+
+Composition (power meter): a giant round yellow electricity meter on a wall, its needle still jammed far into the high zone, a worker shading their eyes looking up at it
+
+Color: yellow meter dominant, red high zone
+
+Exact on-screen text: "POWER DEMAND"
+
+Narration context (do not print it): "electricity demand may not"
